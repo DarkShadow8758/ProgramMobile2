@@ -30,3 +30,6 @@
 
 # Unity generated
 *.unitypackage
+*.tgz
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+Assets/Editor/Migration/

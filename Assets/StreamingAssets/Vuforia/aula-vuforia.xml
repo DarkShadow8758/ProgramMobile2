@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mawile" size="460.000000 374.000000" />
+    <ImageTarget name="roblox" size="716.000000 592.678650" />
+    <ImageTarget name="repo" size="166.000000 182.000000" />
+    <ImageTarget name="pikmin" size="720.000000 1285.714233" />
+    <ImageTarget name="images" size="240.000000 245.405411" />
+  </Tracking>
+</QCARConfig>
